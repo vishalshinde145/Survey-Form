@@ -21,7 +21,7 @@ body {
   color: var(--color-white);
   margin: 0;
 }
-
+.one{}
 /* mobile friendly alternative to using background-attachment: fixed */
 body::before {
   content: '';
